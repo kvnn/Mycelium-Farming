@@ -2,7 +2,7 @@
 
 ## Easy Method to Make Bulk Substrate (Coco Coir + Vermiculite)
 
-by Cameron Ruggles via Youtube
+by [Cameron Ruggles via Youtube](https://www.youtube.com/watch?v=KwuTe43droY&t=290s)
 
 To make bulk substrate:
 500 grams Coco coir
