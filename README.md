@@ -4,12 +4,10 @@
 
 by [Cameron Ruggles via Youtube](https://www.youtube.com/watch?v=KwuTe43droY&t=290s)
 
-To make bulk substrate:
-500 grams Coco coir
-2 liters fine vermiculite 
-1 cup of gypsum from Plaster of Paris 
-5 liters of boiling water 
-5 gallon bucket with lid 
+Per 5 gallons of water:
+- 500 grams Coco coir
+- 2 liters fine vermiculite 
+- 1 cup of gypsum from Plaster of Paris 
 
 Mix all together, let sit for at least an hour and then mix. Let sit to hydrate and cool for approximately 24 hours. Ideally keep insulated to aid the pasteurization process.
 
