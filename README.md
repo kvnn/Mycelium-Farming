@@ -4,7 +4,7 @@
 
 by [Cameron Ruggles via Youtube](https://www.youtube.com/watch?v=KwuTe43droY&t=290s)
 
-Per 5 gallons of water:
+Per 5 liters of water:
 - 500 grams Coco coir
 - 2 liters fine vermiculite 
 - 1 cup of gypsum from Plaster of Paris 
