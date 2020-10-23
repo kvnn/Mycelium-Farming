@@ -1,5 +1,20 @@
 # Growing Mycelium
 
+## Monotub method
+A. Innoculation
+0. always use highest sterilization measure possible, but especially for innoculation
+1. use the "PF Tek" method to innoculate Mycelium into a our Substrate (see below for making Substrate)
+2. after cooked, inject Mycelium into jars
+3. after innoculated, leave jars in a loose cardboard box for 4-6 weeks
+
+B. Growing the Colonization
+// IN PROGRESS
+0. always use highest sterilization measure possible
+1. prepare a Monotub with ~4 inches of sterlized Substrate
+2. wait until Mycelium has strongly colonized the jar
+4. mix Mycelium from jar into Monotub Substrate
+5. seal and store the Monotub. ensure there is enough humidity (TODO: what percentage? I currently believe ~90% is good)
+
 ## Easy Method to Make Bulk Substrate (Coco Coir + Vermiculite)
 
 by [Cameron Ruggles via Youtube](https://www.youtube.com/watch?v=KwuTe43droY&t=290s)
