@@ -34,3 +34,7 @@ Once room temp, double check to make sure it is at field capacity and mix in you
 You can get vermiculite and coco coir at most garden stores. You can find gypsum at most big box stores like walmart, often found in the painting section. They also have cheap 5 gallon buckets for a few bucks. 
 
 Home depot and Lowes are great places to go to find all the items.
+
+
+## Ethnomycology
+Beauveria Bassiana might be successful in killing cockroaches / ants.
