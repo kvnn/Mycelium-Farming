@@ -1,7 +1,7 @@
 # Growing Mycelium
 
 ## Sanitization
->  Use 70% alcohol or 1:10 bottle strength bleach and water ... 70% alcohol is better than 90%+...
+>  For sanitizing surfaces and bodies, use 70% alcohol or 1:10 bottle strength bleach and water ... 70% alcohol is better than 90%+...
 
 ## Monotub method
 A. Innoculation
