@@ -36,5 +36,11 @@ You can get vermiculite and coco coir at most garden stores. You can find gypsum
 Home depot and Lowes are great places to go to find all the items.
 
 
+## Sawdust, Wood chip and Gypsum substrate
+- roughly 6:16:8:2:1 Water:Sawdust:Chips:Oatbran:Gypsum
+- soak wood chips in water overnight, to hydrate
+- once in bags, sterlize at 15 PSI for 2 hours in a pressure cooker
+- see https://www.youtube.com/watch?v=POc0p_vMq70
+
 ## Ethnomycology
 Beauveria Bassiana might be successful in killing cockroaches / ants.
